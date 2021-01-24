@@ -1,0 +1,1 @@
+export const ONCLICK_SIGNUP = 'ONCLICK_SIGNUP';

@@ -1,0 +1,60 @@
+.App {
+    display: flex;
+    position: relative;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+     
+  .App-header {
+    position: relative;
+    background-color: #282c34;
+    min-height: 100%;
+    padding: 2rem;
+    color: white;
+    width: 35%;
+    
+    .text-holder{
+      margin: auto;
+      height: 70%;
+      font-size: 20px;
+    }
+
+    hr{
+      width: 20%;
+    }
+
+    img{
+      position: absolute;
+      width: 100%;
+      left: 0;
+      bottom: 0;
+      opacity: .4;
+    }
+  }
+  
+  .forms{
+    
+    text-align: center;
+    width: 40%;
+    min-height: 100%;
+    align-items: center;
+    margin: auto;
+    height: 50%;
+
+    .logo{
+      width: 300px;
+    }
+  }
+
+  
+  
+  
+  
+
+  
+}
+
+ 
+  
+  
+  
+  

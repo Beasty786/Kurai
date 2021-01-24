@@ -1,0 +1,32 @@
+.signin-form{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    position:relative;     
+}
+
+.button-holder{
+    justify-content: space-between;
+    display: flex;
+    
+    .forgot-pass ,.signup-text{
+        text-decoration: none;
+        color: gray;
+        left: 0;
+    }
+    
+    .button{
+        position: absolute;
+        right: 0;
+    } 
+}
+
+hr{
+    width: 100%;
+    color: gray;
+    margin: 2rem 0px;
+}
+
+
+
