@@ -1,1 +1,4 @@
 export const ONCLICK_SIGNUP = 'ONCLICK_SIGNUP';
+export const TO_PARTNER_SIGNUP = 'TO_PARTNER_SIGNUP';
+export const TO_FARMER_SIGNUP = 'TO_FARMER_SIGNUP';
+export const TO_SIGNIN = 'TO_SIGNIN';
